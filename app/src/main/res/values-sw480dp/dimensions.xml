@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    ubacio sam 480 u polje Smallest screen width posto sam ga izabao iz liste-->
+    <dimen name="clipRectRight">120dp</dimen>
+    <dimen name="clipRectBottom">120dp</dimen>
+
+    <dimen name="rectInset">10dp</dimen>
+    <dimen name="smallRectOffset">50dp</dimen>
+
+    <dimen name="circleRaduis">40dp</dimen>
+    <dimen name="textOffset">25dp</dimen>
+    <dimen name="strokeWidth">6dp</dimen>
+</resources>

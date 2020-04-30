@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClippingViews</string>
+    <string name="clipping">Clipping</string>
+    <string name="skewed">"Skewed and "</string>
+</resources>
